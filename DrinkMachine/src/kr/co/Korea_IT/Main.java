@@ -10,6 +10,7 @@ import kr.co.koreait.drink.Pocari;
 
 public class Main {
 	public static void main(String[] args) {
+		System.out.println("하하하");
 		Scanner scan = new Scanner(System.in);
 		System.out.println("[자판기 시작]");
 		
